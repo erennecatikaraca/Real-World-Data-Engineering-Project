@@ -1,11 +1,11 @@
 ---Uber & Fare Data Streaming Simulation on Microsoft Fabric---
 
 **A simulated real-time data streaming project using Microsoft Fabric and PySpark, inspired by Uber ride and fare data.**
-
+![Architecture](https://drive.google.com/uc?export=view&id=1zSEJGgTMFZHqEXjZxFyLBogjP2BQGU3Y)
 ## Project Overview
 
 This project simulates Uber ride and fare data streams using CSV files stored in Google Drive, mimicking real-time streaming scenarios. Data is ingested, cleaned, and transformed in a **Bronze → Silver → Gold** layered architecture using Microsoft Fabric, PySpark, and Lakehouse storage. The final Gold layer is structured for analytics with Power BI.
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 This project integrates multiple services from **Microsoft Fabric** along with **Python-based utilities** to simulate, process, and analyze streaming data.
 
